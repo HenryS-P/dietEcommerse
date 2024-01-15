@@ -1,2 +1,2 @@
-# dietEcommerse
+# dietEcommerse - HSP
 Coursework
